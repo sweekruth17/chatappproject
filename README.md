@@ -1,4 +1,4 @@
-##Screenshots
+## Screenshots
 ![image](https://github.com/sweekruth17/chatappproject/assets/55882537/345f4b8a-9f03-4f4e-991d-dbade4b52f63)
 ![image](https://github.com/sweekruth17/chatappproject/assets/55882537/6de528b5-8384-48bf-b394-6152ffffcc74)
 
